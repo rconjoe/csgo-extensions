@@ -1,1 +1,2 @@
-# csgo-extensions - smjansson, steamworks, socket
+# csgo-extensions
+ - smjansson, steamworks, socket
